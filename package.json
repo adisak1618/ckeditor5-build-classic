@@ -83,5 +83,8 @@
   "eslintIgnore": [
     "build/**",
     "packages/**"
-  ]
+  ],
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^10.0.4"
+  }
 }
